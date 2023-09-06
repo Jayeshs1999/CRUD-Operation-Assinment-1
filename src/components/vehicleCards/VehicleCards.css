@@ -1,0 +1,31 @@
+.card {
+    width: 300px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 16px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .vehicle-name {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .description {
+    font-size: 16px;
+    margin: 12px 0;
+  }
+  
+  .description-input {
+    width: 100%;
+    font-size: 16px;
+    margin: 12px 0;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 16px;
+    justify-content: start;
+  }
